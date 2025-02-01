@@ -2,17 +2,16 @@ subject: Education
 listing-order: 1
 icon: "/assets/img/graduation-cap.svg"
 contents:
-  - title: Farvard University, PhD in Computer Science
+  - title: Turing School of Software & Design
     description:
-      - Design of a method to build a probabilistic generative model
-      - Development of model calibration algorithm for cross-domain few-shot learning
-    date: Mar. 2019 - Aug. 2023
-  - title: Stanfort University, MA in Computer Science
+      - 1500 hours, 7-month intensive ACCET-accredited software development program.
+      - Full-stack curriculum covering Ruby, Rails, JavaScript, React, and SQL.
+    date: July 2024 - Mar. 2025
+  - title: Oklahoma City Community College
     description:
-      - Development of deep learning algorithms for automatically tracking the facial expressions
-      - Optimizing parameter efficient fine tuning for fairness in medical image analysis
-    grade: "**GPA**: `4.1/4.3`"
-    date: Mar. 2014 - Feb. 2016
-  - title: Kambridge University, BA in Electronic Engineering
-    grade: "**GPA**: `3.9/4.3`"
-    date: Mar. 2010 - Feb. 2014
+      - Associate in Science - EMT-Paramedic
+    date: May 2015
+  - title: Oklahoma City Community College
+    description:
+      - Associate in Applied Science Degree
+    date: Dec. 2012

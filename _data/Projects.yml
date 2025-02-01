@@ -2,11 +2,11 @@ subject: Projects
 listing-order: 3
 icon: "/assets/img/clipboard-list.svg"
 contents:
-  - title: "ChatPPT ([https://chat.opena1.com/](https://chat.openai.com/))"
+  - title: "Smart Gardening ([Deployed Link](https://smart-gardening-fe.vercel.app/))"
     description: 
-      - Chatbot developed based on a large language model
-      - Designed Generative algorithm to generate novel human-like content
-      - "Technology Used: Rust, Typescript, Python, Ruby"
+      - Integrated OpenAI and Google Cloud API to fetch plant recommendations based on user input and geographical data
+      - Designed a user-friendly interface for seamless plant selection, garden management, and personalized gardening suggestions
+      - "Technology Used: React, Ruby on Rails, OpenAI API, Google Cloud API, PostgreSQL"
     image: "![](https://i.ibb.co/hX2wYLB/231321.webp)"
   - title: "AW5-cli ([https://github.com/aw5/aw5-cli](https://github.com/aws/aws-cli))"
     description: 
