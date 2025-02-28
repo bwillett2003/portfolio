@@ -1,0 +1,10 @@
+subject: About Me
+listing-order: 1
+icon: "/assets/img/house.svg"
+contents:
+  - description: |
+      I’m a Full Stack Software Engineer with a passion for problem-solving and building impactful software. After spending 13+ years as a paramedic, where quick thinking, teamwork, and handling the unexpected were part of everyday life, I transitioned into software development to combine my love of technology with creating solutions that matter.
+      
+      Bringing the same critical thinking and adaptability that defined my time in emergency services, I thrive in fast-paced environments where logic meets creativity. I’m currently expanding my expertise in React and modern web technologies, always eager to learn and grow.
+      
+      When I’m not coding, you’ll find me with my amazing wife and our two basset hounds, exploring the mountains, attempting to master video games, or gazing up at the night sky. I believe in enjoying life’s little moments, and I’m excited to see where this journey takes me next.

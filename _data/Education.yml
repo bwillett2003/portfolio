@@ -1,11 +1,13 @@
 subject: Education
-listing-order: 1
+listing-order: 2
 icon: "/assets/img/graduation-cap.svg"
 contents:
   - title: Turing School of Software & Design
     description:
       - 1500 hours, 7-month intensive ACCET-accredited software development program.
       - Full-stack curriculum covering Ruby, Rails, JavaScript, React, and SQL.
+      - Emphasis on agile methodologies, collaboration, and problem-solving in software development.
+      - Strong focus on Object-Oriented Programming, MVC architecture, and API integration.
     date: July 2024 - Mar. 2025
   - title: Oklahoma City Community College
     description:

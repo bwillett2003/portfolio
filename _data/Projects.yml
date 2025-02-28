@@ -1,21 +1,16 @@
 subject: Projects
-listing-order: 3
+listing-order: 4
 icon: "/assets/img/clipboard-list.svg"
 contents:
-  - title: "Smart Gardening ([Deployed Link](https://smart-gardening-fe.vercel.app/))"
+  - title: "Smart Gardening (5-Member Group)([Deployed Link](https://smart-gardening-fe.vercel.app/), [Backend Link](https://github.com/sethverrill/smart-gardening-be), [Frontend Link](https://github.com/wally-yawn/smart_gardening_fe))"
     description: 
       - Integrated OpenAI and Google Cloud API to fetch plant recommendations based on user input and geographical data
       - Designed a user-friendly interface for seamless plant selection, garden management, and personalized gardening suggestions
       - "Technology Used: React, Ruby on Rails, OpenAI API, Google Cloud API, PostgreSQL"
-    image: "![](./assets/img/Plantie.gif)"
-  - title: "AW5-cli ([https://github.com/aw5/aw5-cli](https://github.com/aws/aws-cli))"
+    image: "![](./assets/img/Plantie.gif) ![Start](./assets/img/SmartGardening_start.gif) ![End](./assets/img/SmartGardening_end.gif)"
+  - title: "Rancid Tomatillos (2-person Team)([Deployed Link](https://rancid-tomatillos-james-bryan.vercel.app/), [Frontend Link](https://github.com/bwillett2003/rancid-tomatillos))"
     description: 
-      - Universal Command Line Interface for Amazone Web Services
-      - Developed a scheme to facilitate users’ authentication without having to remember their credentials
-      - "Technology Used: Typescript, Python, Go"
-    image: "![](https://i.ibb.co/Ttb5Qn9/21321312.webp)"
-  - title: "PiTorch ([https://pitorch.org/](https://pytorch.org/))" 
-    description: 
-      - Machine learning library for applications such as computer vision and natural language processing
-      - "Technology Used: Python, Cuda, Objective-C++"
-    image: "![](https://i.ibb.co/R9150c4/12421323.webp)"
+      - Developed a user-facing movie catalog using React and React Router, allowing users to browse movies by promotional posters, view ratings, and access detailed movie information
+      - Implemented interactive voting functionality, enabling users to upvote or downvote movies seamlessly
+      - "Technologies Used: React, React Router, Cypress"
+    image: "![](./assets/img/RancidTomatillosDemo.gif)"
