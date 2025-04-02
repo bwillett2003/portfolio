@@ -8,9 +8,9 @@ contents:
       - Designed a user-friendly interface for seamless plant selection, garden management, and personalized gardening suggestions
       - "Technology Used: React, Ruby on Rails, OpenAI API, Google Cloud API, PostgreSQL"
     image: "![](./assets/img/Plantie.gif) ![Start](./assets/img/SmartGardening_start.gif) ![End](./assets/img/SmartGardening_end.gif)"
-  - title: "Rancid Tomatillos (2-person Team)([Deployed Link](https://rancid-tomatillos-james-bryan.vercel.app/), [Frontend Link](https://github.com/bwillett2003/rancid-tomatillos))"
+  - title: "Tracker CRM (Collaborative Project)([Deployed Link](https://tracker-crm-fe-38f7cf1aaca5.herokuapp.com/), [Backend Link](https://github.com/turingschool/tracker-crm), [Frontend Link](https://github.com/turingschool/tracker-crm-fe))"
     description: 
-      - Developed a user-facing movie catalog using React and React Router, allowing users to browse movies by promotional posters, view ratings, and access detailed movie information
-      - Implemented interactive voting functionality, enabling users to upvote or downvote movies seamlessly
-      - "Technologies Used: React, React Router, Cypress"
-    image: "![](./assets/img/RancidTomatillosDemo.gif)"
+      - Contributed to the enhancement of an existing CRM application designed to track job applications, contacts, and companies
+      - Implemented full frontend and backend functionality to edit company records, including building a modal-based editing interface and integrating it with Rails API endpoints
+      - "Technologies Used: Ruby on Rails, React, Tailwind CSS, TypeScript, Cypress"
+    image: "![](./assets/img/tracker.png)"
